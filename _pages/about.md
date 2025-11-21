@@ -32,7 +32,7 @@ My research interest includes neural machine translation and computer vision. I 
   <video src="video/start_MoCha(1).mp4" width="100%" autoplay muted loop>
 </video></div></div>
 <div class='paper-box-text' markdown="1">
-<span style="font-family: 'MoCha_font', Arial, sans-serif; font-weight: bold; font-size:20px">
+<span style="font-family: 'MoCha_font', Arial, sans-serif; font-weight: bold; font-size:32px">
         MoCha
 </span>
 
