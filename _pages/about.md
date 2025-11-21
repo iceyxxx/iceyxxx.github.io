@@ -33,9 +33,9 @@ My research interest includes neural machine translation and computer vision. I 
 </video></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+End-to-End Video Character Replacement without Structural Guidance
 
-[**Project**](https://orange-3dv-team.github.io/MoCha/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code**](https://github.com/Orange-3DV-Team/MoCha) | [**Project**](https://orange-3dv-team.github.io/MoCha/) | **Paper**
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
