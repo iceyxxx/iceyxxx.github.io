@@ -42,8 +42,7 @@ End-to-End Video Character Replacement without Structural Guidance
 
 [**Code**](https://github.com/Orange-3DV-Team/MoCha) | [**Project**](https://orange-3dv-team.github.io/MoCha/) | **Paper**
 <a href="https://github.com/Orange-3DV-Team/MoCha">
-<img src="https://img.shields.io/github/stars/orange-3dv-team/MoCha?style=social&label=MoCha"></a>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<img src="https://img.shields.io/github/stars/orange-3dv-team/MoCha?style=flat&labelColor=e6d6b4&color=gray"></a>
 </div>
 </div>
 
