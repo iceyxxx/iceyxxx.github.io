@@ -29,7 +29,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div>
-  <video src="video/start_MoCha(1).mp4" width="100%" controls autoplay muted loop>
+  <video src="video/start_MoCha(1).mp4" width="100%" autoplay muted loop>
 </video></div></div>
 <div class='paper-box-text' markdown="1">
 
