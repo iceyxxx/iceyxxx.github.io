@@ -78,6 +78,11 @@
     }
     
     @include breakpoint($medium) {
+        .corner-image {
+            top: 10px;
+            right: 10px;
+            width: 100px;
+        }
         .paper-box-image{
             justify-content: left;
             min-width: 200px;
