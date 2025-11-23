@@ -29,7 +29,7 @@ I am working on video generation and image generation. I am currently seeking op
 <div class='paper-box' style="background-color: #eae4da; padding: 20px; border-radius: 8px; margin: 10px 0;">
   <img src="images/mocha_emoji.png" class="corner-image">
   <div class='paper-box-image'><div>
-  <video src="video/start_MoCha(1).mp4" width="100%" autoplay muted loop>
+  <video src="video/mocha.mp4" width="100%" autoplay muted loop>
 </video></div></div>
 <div class='paper-box-text' markdown="1">
 <span style="font-family: 'MoCha_font', Arial, sans-serif; font-weight: bold; font-size:48px; color:#7b3c34">
