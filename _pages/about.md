@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am working on video generation and image generation. I am currently seeking opportunities in AI Engineering or PhD research. Contact me at <a href="mailto:icey.x@pku.edu.cn">icey.x@pku.edu.cn</a>.
+I am working on video generation and image generation. I am currently seeking opportunities in AI Engineering or PhD research. Please contact me at <a href="mailto:icey.x@pku.edu.cn">icey.x@pku.edu.cn</a>!
 
 
 # 🔥 News
