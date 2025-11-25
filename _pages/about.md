@@ -70,7 +70,7 @@ Anime shading and post-processing in the style of *Honkai: Star Rail*
 
 **3D Modeling**
 
-Anime shading and post-processing in the style of *Honkai: Star Rail*
+Collection of modeling projects by *Digital Content Creation (DCC)* software.
 
 **Maya** | **Blender**
 </div>
