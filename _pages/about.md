@@ -58,7 +58,7 @@ End-to-End Video Character Replacement without Structural Guidance
 
 Anime shading and post-processing in the style of *Honkai: Star Rail*
 
-**Unity** | **Shader Language**
+**Unity** | **Shader Language (HLSL)**
 </div>
 </div>
 
