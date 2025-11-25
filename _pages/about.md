@@ -47,6 +47,21 @@ End-to-End Video Character Replacement without Structural Guidance
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+# 🎄 Projects
+<div class='paper-box' style="background-color: #eae4da; padding: 20px; border-radius: 8px; margin: 10px 0;">
+  <div class='paper-box-image'><div>
+  <video src="video/mocha.mp4" width="100%" autoplay muted loop>
+</video></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Non-Photorealistic Rendering**
+
+End-to-End Video Character Replacement without Structural Guidance
+
+[**Unity**] | [**Shader Language**]
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
