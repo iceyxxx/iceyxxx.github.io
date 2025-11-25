@@ -58,7 +58,7 @@ End-to-End Video Character Replacement without Structural Guidance
 
 End-to-End Video Character Replacement without Structural Guidance
 
-[**Unity**] | [**Shader Language**]
+**Unity** | **Shader Language**
 </div>
 </div>
 
