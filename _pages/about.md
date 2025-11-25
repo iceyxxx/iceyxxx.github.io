@@ -64,7 +64,7 @@ Anime shading and post-processing in the style of *Honkai: Star Rail*
 
 <div class='paper-box' style="background-color: #eae4da; padding: 20px; border-radius: 8px; margin: 10px 0;">
   <div class='paper-box-image'><div>
-  <video src="video/NPR-feixiao-med.mp4" width="100%" autoplay muted loop>
+  <video src="video/3d_model.mp4" width="100%" autoplay muted loop>
 </video></div></div>
 <div class='paper-box-text' markdown="1">
 
