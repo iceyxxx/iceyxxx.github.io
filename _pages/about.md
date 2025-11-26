@@ -54,7 +54,9 @@ End-to-End Video Character Replacement without Structural Guidance
 </video></div></div>
 <div class='paper-box-text' markdown="1">
 
+<span style="font-size:30px">
 **Non-Photorealistic Rendering**
+</span>
 
 Anime shading and post-processing in the style of *Honkai: Star Rail*
 
@@ -67,8 +69,10 @@ Anime shading and post-processing in the style of *Honkai: Star Rail*
   <video src="video/3d_model.mp4" width="100%" autoplay muted loop>
 </video></div></div>
 <div class='paper-box-text' markdown="1">
-
+  
+<span style="font-size:30px">
 **3D Modeling**
+</span>
 
 Collection of modeling projects by *Digital Content Creation (DCC)* software.
 
