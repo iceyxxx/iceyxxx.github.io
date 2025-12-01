@@ -50,12 +50,12 @@ End-to-End Video Character Replacement without Structural Guidance
 # 🎄 Projects
 <div class='paper-box' style="background-color: #eae4da; padding: 20px; border-radius: 8px; margin: 10px 0;">
   <div class='paper-box-image'><div>
-  <video src="video/NPR-feixiao-med.mp4" width="100%" autoplay muted loop>
+  <video src="video/layout.mp4" width="100%" autoplay muted loop>
 </video></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span style="font-size:30px">
-**Virtual 3D Layout Generation by LLM**
+**Virtual 3D Layout Generation and Edition by LLM**
 </span>
 
 Generate and edit a complete 3D virtual layout using a text prompt.
