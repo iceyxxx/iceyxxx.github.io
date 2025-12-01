@@ -21,8 +21,8 @@ I am working on video generation and image generation. I am currently seeking op
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.10*: &nbsp; Try MoCha with [ComfyUI workflow](https://github.com/kijai/ComfyUI-WanVideoWrapper)!
+- *2025.10*: &nbsp; Release the [inference code](https://github.com/Orange-3DV-Team/MoCha-Code) for MoCha.
 
 # 📝 Publications 
 
