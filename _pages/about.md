@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am working on video generation and image generation. I am currently seeking opportunities in AI Engineering or PhD research. Please contact me at <a href="mailto:icey.x@pku.edu.cn">icey.x@pku.edu.cn</a>!
+I am working on video generation and image generation. I am currently seeking opportunities in AI Engineering or PhD research. Please contact me at <a href="mailto:zhengboxu_pku@outlook.com">zhengboxu_pku@outlook.com</a>!
 
 
 # 🔥 News
@@ -38,14 +38,16 @@ I am working on video generation and image generation. I am currently seeking op
 
 End-to-End Video Character Replacement without Structural Guidance
 
-[**Code**](https://github.com/Orange-3DV-Team/MoCha) | [**Project**](https://orange-3dv-team.github.io/MoCha/) | **Paper**
+[**Code**](https://github.com/Orange-3DV-Team/MoCha) | [**Project**](https://orange-3dv-team.github.io/MoCha/) | [**Paper**](https://arxiv.org/abs/2601.08587)
 <a href="https://github.com/Orange-3DV-Team/MoCha">
 
 <img src="https://img.shields.io/github/stars/orange-3dv-team/MoCha?style=flat&labelColor=e3d2b8&color=gray">
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Frequency-controlled Diffusion Model for Versatile Text-guided Image-to-Image Translation](https://arxiv.org/abs/2407.03006). X. Gao, **Zhengbo Xu**, J.H. Zhao, J.Y. Liu. Proceedings of the AAAI Conference on Artificial Intelligence. 2024.
+- [Awe fosters positive attitudes toward solitude](https://www.nature.com/articles/s44220-024-00244-y). T.L. Jiang, Y.G. Yin, W.Y. Yuan, C.X. Hao, Y.H. Du, **Zhengbo Xu**, Joshua Hicks. Nature Mental Health (2024): 1-11.
+- [Self-aligned Concave Curve: Illumination Enhancement for Unsupervised Adaptation](https://arxiv.org/abs/2210.03792). W.J. Wang, **Zhengbo Xu**, H.F. Huang, J.Y. Liu. Proceedings of the 30th ACM international conference on multimedia. 2022.
 
 # 🎄 Projects
 <div class='paper-box' style="background-color: #eae4da; padding: 20px; border-radius: 8px; margin: 10px 0;">
@@ -97,11 +99,13 @@ Collection of modeling projects by *Digital Content Creation (DCC)* software.
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.07* University-Level Scholarship for three years. 
+- *2018.11* Second Prize in China Mathematical Olympiad (CMO).
+- *2017.11* First Prize in National Olympiad in Informatics in Provinces (NOIP).
 
 # 📖 Educations
-- *2024.09 - 2025.12*, MSc in Advanced Computer Science, Oxford University, United Kingdom. 
+- *2024.09 - 2025.12*, MSc in Advanced Computer Science, Oxford University, United Kingdom.
+- *2019.09 - 2023.07*, BSc in Intelligent Science (Turing Class), Peking University, China.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.06 - 2025.11*, [Alibaba](https://www.alibabagroup.com/), China.
