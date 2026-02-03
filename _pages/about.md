@@ -21,6 +21,7 @@ I am working on video generation and image generation. I am currently seeking op
 
 
 # 🔥 News
+- *2026.01*: &nbsp; Release the [paper](https://arxiv.org/abs/2601.08587) for MoCha!
 - *2025.10*: &nbsp; Try MoCha with [ComfyUI workflow](https://github.com/kijai/ComfyUI-WanVideoWrapper)!
 - *2025.10*: &nbsp; Release the [inference code](https://github.com/Orange-3DV-Team/MoCha-Code) for MoCha.
 
@@ -37,6 +38,8 @@ I am working on video generation and image generation. I am currently seeking op
 </span>
 
 End-to-End Video Character Replacement without Structural Guidance
+
+**Zhengbo Xu**, Jie Ma, Ziheng Wang, Zhan Peng, Jun Liang, Jing Li
 
 [**Code**](https://github.com/Orange-3DV-Team/MoCha) | [**Project**](https://orange-3dv-team.github.io/MoCha/) | [**Paper**](https://arxiv.org/abs/2601.08587)
 <a href="https://github.com/Orange-3DV-Team/MoCha">
@@ -109,3 +112,4 @@ Collection of modeling projects by *Digital Content Creation (DCC)* software.
 
 # 💻 Internships
 - *2025.06 - 2025.11*, [Alibaba](https://www.alibabagroup.com/), China.
+- *2024.05 - 2024.08*, [Alibaba](https://www.alibabagroup.com/), China.
